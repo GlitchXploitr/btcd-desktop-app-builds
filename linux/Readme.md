@@ -21,5 +21,5 @@ Options:
 
 After installation you can find the Bitcoindark Wallet in Applications menu on system. Can search it with `btcd` in ubuntu applications launcher to open the desktop app. It's that easy.
 
-If you do not trust the installer file, you can make it yourself using the shell script `btcdlinuxbuild.sh` listed here: https://github.com/satindergrewal/SuperMesh/tree/master/scripts/btcd-build-scripts
+If you do not trust the installer file, you can make it yourself using the shell script `btcdlinuxbuild.sh` listed here: https://github.com/satindergrewal/SuperMesh/tree/alpha-0.0.1e/Old%20Configs%20%26%20Scripts/scripts/btcd-build-scripts
 
